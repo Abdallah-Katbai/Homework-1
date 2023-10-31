@@ -1,5 +1,32 @@
 .title{
     width: 400px;
     height: 200px;
-
+    color: brown;
 }
+.left{
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
+.center{
+    text-align: center;
+}
+.beige{
+    color: beige;
+}
+.left-text{
+    text-decoration: underline;
+    text-decoration-color: yellow;
+}
+.solid{
+    text-decoration: solid;
+    text-decoration-color: black;
+}
+.white{
+    background-color: white;
+}
+.brown{
+    background-color: brown;
+}
+
